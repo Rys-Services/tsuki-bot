@@ -7,6 +7,10 @@ This is a Discord bot featuring a ticket system with transcripts and an blacklis
 
 ## 📸 Images
 
+- Transcript →
+
+  <img width="1356" height="651" alt="transcript" src="https://github.com/user-attachments/assets/f288a3ff-f527-4e02-bb9b-85cd4047e4a2" />
+  
 - Panel →
 
   <img width="328" height="122" alt="panel" src="https://github.com/user-attachments/assets/dc2581e4-ccdf-41c5-b5b0-ba48979c3f65" />
@@ -18,10 +22,6 @@ This is a Discord bot featuring a ticket system with transcripts and an blacklis
 - Claim →
 
   <img width="288" height="193" alt="claim" src="https://github.com/user-attachments/assets/a62562ad-3945-49f7-b4ab-57db6aad55ed" />
-
-- Transcripts →
-
-  <img width="1356" height="651" alt="transcript" src="https://github.com/user-attachments/assets/f288a3ff-f527-4e02-bb9b-85cd4047e4a2" />
 
 ## ⚙️ Dependences
 

@@ -1,0 +1,17 @@
+{
+  "name": "tsuki",
+  "version": "1.0.0",
+  "description": "powered by RYS Services",
+  "main": "./index.js",
+  "author": "@confunce / @xaamder",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.4",
+    "js-yaml": "^4.1.0",
+    "mongoose": "^5.13.23",
+    "ms": "^2.1.3"
+  }
+}
